@@ -3,9 +3,9 @@ LawyerUp – Legal Management App
 Language: C++
 Project Type: Console-based application
 
-Overview
+Overview:
 
-LawyerUp is a console application that helps law firms manage clients, invoices, court dates, and legal documents. It was created as part of my BSc IT studies at North-West University.
+Console-based legal management system for clients, invoices, court dates, and documents. Implemented object-oriented design, smart pointers, and file handling. Developed as part of a university project to simulate real-world legal office operations.
 
 Features:
 
