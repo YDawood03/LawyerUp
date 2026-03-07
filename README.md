@@ -7,7 +7,7 @@ Overview
 
 LawyerUp is a console application that helps law firms manage clients, invoices, court dates, and legal documents. It was created as part of my BSc IT studies at North-West University.
 
-Features
+Features:
 
 Client Management: Add, remove, and display client information (name, reference, phone, email).
 
@@ -19,7 +19,7 @@ Document Generation: Create legal documents like Notice of Withdrawal, Letter of
 
 Secure Login: Restricted access with usernames and passwords.
 
-Skills Demonstrated
+Skills Demonstrated :
 
 Object-Oriented Programming (Classes, Vectors, Smart Pointers)
 
@@ -39,6 +39,6 @@ Improve invoices formatting
 
 Potential GUI interface
 
-Developer
+Developer :
 
 Yaseen Dawood – BSc IT Student, North-West University
