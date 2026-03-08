@@ -19,6 +19,11 @@ Document Generation: Create legal documents like Notice of Withdrawal, Letter of
 
 Secure Login: Restricted access with usernames and passwords.
 
+Screenshots: 
+
+<img width="1366" height="729" alt="LAWYERUP S1" src="https://github.com/user-attachments/assets/8c5e0d28-0877-4bad-9ced-6ace606e0d29" />
+
+
 Skills Demonstrated :
 
 Object-Oriented Programming (Classes, Vectors, Smart Pointers)
