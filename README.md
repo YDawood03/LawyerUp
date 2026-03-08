@@ -45,7 +45,7 @@ This console-based legal management system was my answer. It manages clients, in
 
 | Viewing Court Dates & Generating Documents |
 | :---: |
-| <img width="800" alt="Viewing Court Dates" src="https://github.com/user-attachments/assets/ad11b91c-dd87-400e-a5b7-990711b79e7f" /> |
+| <img width="600" alt="Viewing Court Dates" src="https://github.com/user-attachments/assets/ad11b91c-dd87-400e-a5b7-990711b79e7f" /> |
 
 ---
 
@@ -68,8 +68,6 @@ Building LawyerUp taught me that programming isn't just about syntax – it's ab
 - That users need clear, simple interfaces (even in a console app)
 - How to persist data using files
 - That debugging is 50% of the work (and 100% worth it)
-
-Most importantly, I learned that **you don't need to build something perfect – you just need to build something that works** and keep improving.
 
 ---
 
