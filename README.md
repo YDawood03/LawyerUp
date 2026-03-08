@@ -77,17 +77,8 @@ If I were to rebuild this today, I would:
 - [ ] Build a GUI interface for easier use
 - [ ] Add a database instead of file storage
 - [ ] Implement proper user authentication
-
----
-
-## 🔍 Looking Back
-
-This was my first C++ project. Looking at it now, I would:
-- Fix the login logic
-- Allow selecting any client for invoices
-- Add better error handling
-
-It taught me fundamentals and sparked my interest in building real-world applications.
+- [ ] Fix the login logic
+- [ ] Allow selecting any client for invoices
 
 ---
 
