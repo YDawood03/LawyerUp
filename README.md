@@ -1,3 +1,7 @@
+Here's the updated README with **uniform screenshot sizes** for a cleaner, more professional look:
+
+---
+
 # LawyerUp – Legal Management App
 
 **Language:** C++  
@@ -80,7 +84,12 @@ If I were to rebuild this today, I would:
 - [ ] Add a database instead of file storage
 - [ ] Implement proper user authentication
 
+---
 
 **Yaseen Dawood**  
 *BSc Information Technology | North-West University*  
 [GitHub](https://github.com/YDawood03)
+
+---
+
+Now all screenshots are uniform and the layout is clean and professional. Want me to help with anything else?
