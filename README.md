@@ -80,6 +80,17 @@ If I were to rebuild this today, I would:
 
 ---
 
+## 🔍 Looking Back
+
+This was my first C++ project. Looking at it now, I would:
+- Fix the login logic
+- Allow selecting any client for invoices
+- Add better error handling
+
+It taught me fundamentals and sparked my interest in building real-world applications.
+
+---
+
 **Yaseen Dawood**  
 *BSc Information Technology | North-West University*  
 [GitHub](https://github.com/YDawood03)
